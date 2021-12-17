@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "The Odin Project practice to create Restaurant Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuslanPakhom/Restaurant-Page.git"
+  },
+  "author": "Ruslan Pakhomov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuslanPakhom/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/RuslanPakhom/Restaurant-Page#readme",
+  "dependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
